@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7e91c26-2c59-49c8-86d2-32261b742319" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sql/answer.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/create.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql/question" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/answer.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/answer.sql" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,55 +22,11 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="sqlTest: schema" type="c314c289:MysqlImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="sqlTest: schema" type="c314c289:MysqlImplModel$Schema" />
-        <item name="Course: table" type="98d5ac3d:MysqlImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="sqlTest: schema" type="c314c289:MysqlImplModel$Schema" />
-        <item name="SC: table" type="98d5ac3d:MysqlImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="sqlTest: schema" type="c314c289:MysqlImplModel$Schema" />
-        <item name="Student: table" type="98d5ac3d:MysqlImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="sqlTest: schema" type="c314c289:MysqlImplModel$Schema" />
-        <item name="Teacher: table" type="98d5ac3d:MysqlImplModel$Table" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sql/create.sql">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sql/question">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="144">
+              <caret line="8" column="3" selection-start-line="8" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -93,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sql/answer.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="144">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -112,9 +67,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8368ea4a-8c43-4855-91fb-fdf724a569d1/console.sql" />
         <option value="$PROJECT_DIR$/sql/create.sql" />
         <option value="$PROJECT_DIR$/sql/question" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8368ea4a-8c43-4855-91fb-fdf724a569d1/console.sql" />
         <option value="$PROJECT_DIR$/sql/answer.sql" />
       </list>
     </option>
@@ -133,12 +88,12 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -156,14 +111,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576129294703" />
-    <property name="database.console.LAST_STATE" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576140417412" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/CodeTest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="database.main" />
@@ -190,63 +147,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576123806790</updated>
-      <workItem from="1576123808315" duration="2538000" />
+      <workItem from="1576123808315" duration="9675000" />
+      <workItem from="1576141502548" duration="617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2538000" />
+    <option name="totallyTimeSpent" value="10292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.24973205" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24973205" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32901832" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Database Console" order="5" weight="0.32901832" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="leetcode" order="0" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Mybatis datasource" order="2" show_stripe_button="false" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.329582" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette" order="7" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="9" weight="0.24973205" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="UI Designer" order="0" />
-      <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24973205" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32901832" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" />
-      <window_info anchor="bottom" id="Database Changes" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Database Console" order="5" weight="0.32901832" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="5" visible="true" weight="0.32901832" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Run" order="8" />
@@ -265,7 +189,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="9" weight="0.24973205" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -288,41 +212,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://8368ea4a-8c43-4855-91fb-fdf724a569d1/schema/sqlTest/table/Course.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://8368ea4a-8c43-4855-91fb-fdf724a569d1/schema/sqlTest/table/SC">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://8368ea4a-8c43-4855-91fb-fdf724a569d1/schema/sqlTest/table/SC.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://8368ea4a-8c43-4855-91fb-fdf724a569d1/schema/test/table/student">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/question">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://8368ea4a-8c43-4855-91fb-fdf724a569d1/schema/sqlTest/table/Course.sql" />
+    <entry file="das://8368ea4a-8c43-4855-91fb-fdf724a569d1/schema/sqlTest/table/SC.sql" />
+    <entry file="das://8368ea4a-8c43-4855-91fb-fdf724a569d1/schema/test/table/student" />
+    <entry file="das://8368ea4a-8c43-4855-91fb-fdf724a569d1/schema/sqlTest/table/Course" />
+    <entry file="das://8368ea4a-8c43-4855-91fb-fdf724a569d1/schema/sqlTest/table/SC" />
     <entry file="file://$PROJECT_DIR$/sql/create.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -330,10 +224,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://8368ea4a-8c43-4855-91fb-fdf724a569d1/schema/sqlTest/table/Course">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+    <entry file="file://$PROJECT_DIR$/sql/question">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="3" selection-start-line="8" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -342,8 +236,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sql/answer.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="144">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
